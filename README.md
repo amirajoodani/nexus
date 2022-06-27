@@ -1,4 +1,4 @@
-nexus
+nexus <br>
 #nexus installation <br>
 firest update repository : <br>
 debian : (# sudo apt-get update) <br>
