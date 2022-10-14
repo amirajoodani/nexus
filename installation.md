@@ -1,11 +1,12 @@
-nexus <br>
-#nexus installation <br>
+# nexus installation <br>
 firest update repository : <br>
 debian : (# sudo apt-get update) <br>
 redhat : (# sudo yum update) <br>
 
 # install java :<br>
 sudo apt install openjdk-8-jre-headless <br>
+
+sudo yum install java-1.8.0-openjdk-headless<br>
 
 # Download latest version of nexus
 cd /opt <br>
